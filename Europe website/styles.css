@@ -1,0 +1,5 @@
+.card {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1f;
+  background-color:rgb(255, 0, 0);
+}
